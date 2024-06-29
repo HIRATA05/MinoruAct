@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\C++\MinoruAct\Main.cpp(783,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\C++\MinoruAct\Main.cpp(877,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\C++\MinoruAct\Main.cpp(899,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\C++\MinoruAct\Main.cpp(1034,28): warning C4244: '=': 'double' から 'BYTE' への変換です。データが失われる可能性があります。
+C:\C++\MinoruAct\Main.cpp(1037,28): warning C4244: '=': 'double' から 'BYTE' への変換です。データが失われる可能性があります。
+C:\C++\MinoruAct\Main.cpp(1040,28): warning C4244: '=': 'double' から 'BYTE' への変換です。データが失われる可能性があります。
+C:\C++\MinoruAct\Main.cpp(913,6): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+C:\C++\MinoruAct\Main.cpp(1244,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\C++\MinoruAct\Main.cpp(1246,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\C++\MinoruAct\Main.cpp(1540,6): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+  3DStageTest.vcxproj -> C:\C++\MinoruAct\x64\Debug\3DStageTest.exe

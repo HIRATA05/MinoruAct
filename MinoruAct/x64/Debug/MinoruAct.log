@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中間ディレクトリ (MinoruAct\x64\Debug\) に別のプロジェクト (3DStageTest.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  Main.cpp
+C:\Users\pinok\Downloads\MinoruAct\Main.cpp(783,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\pinok\Downloads\MinoruAct\Main.cpp(877,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\pinok\Downloads\MinoruAct\Main.cpp(899,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\pinok\Downloads\MinoruAct\Main.cpp(1034,28): warning C4244: '=': 'double' から 'BYTE' への変換です。データが失われる可能性があります。
+C:\Users\pinok\Downloads\MinoruAct\Main.cpp(1037,28): warning C4244: '=': 'double' から 'BYTE' への変換です。データが失われる可能性があります。
+C:\Users\pinok\Downloads\MinoruAct\Main.cpp(1040,28): warning C4244: '=': 'double' から 'BYTE' への変換です。データが失われる可能性があります。
+C:\Users\pinok\Downloads\MinoruAct\Main.cpp(913,6): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+C:\Users\pinok\Downloads\MinoruAct\Main.cpp(1244,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\pinok\Downloads\MinoruAct\Main.cpp(1246,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\pinok\Downloads\MinoruAct\Main.cpp(1540,6): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+  MinoruAct.vcxproj -> C:\Users\pinok\Downloads\MinoruAct\x64\Debug\MinoruAct.exe
